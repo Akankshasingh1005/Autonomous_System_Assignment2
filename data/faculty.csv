@@ -1,0 +1,29 @@
+name,department,email,designation,phone_ext,office
+Dr. Rahul Sharma,CSE,rahul.sharma@iitj.ac.in,Assistant Professor,2101,FBH-201
+Dr. Ankit Verma,CSE,ankit.verma@iitj.ac.in,Associate Professor,2102,FBH-202
+Dr. Sunita Patel,CSE,sunita.patel@iitj.ac.in,Assistant Professor,2103,FBH-203
+Dr. Deepak Gupta,CSE,deepak.gupta@iitj.ac.in,Professor,2104,FBH-204
+Dr. Meena Kumari,CSE,meena.kumari@iitj.ac.in,Assistant Professor,2105,FBH-205
+Dr. Arjun Singh,CSE,arjun.singh@iitj.ac.in,Associate Professor,2106,FBH-206
+Dr. Rohit Agarwal,CSE,rohit.agarwal@iitj.ac.in,Assistant Professor,2107,FBH-207
+Dr. Kavya Reddy,CSE,kavya.reddy@iitj.ac.in,Professor,2108,FBH-208
+Dr. Pradeep Nair,EE,pradeep.nair@iitj.ac.in,Associate Professor,2201,FBH-301
+Dr. Shweta Menon,EE,shweta.menon@iitj.ac.in,Assistant Professor,2202,FBH-302
+Dr. Vikas Tiwari,EE,vikas.tiwari@iitj.ac.in,Professor,2203,FBH-303
+Dr. Neha Bhatia,EE,neha.bhatia@iitj.ac.in,Assistant Professor,2204,FBH-304
+Dr. Suresh Kumar,ME,suresh.kumar@iitj.ac.in,Professor,2301,FBH-401
+Dr. Ramesh Joshi,ME,ramesh.joshi@iitj.ac.in,Associate Professor,2302,FBH-402
+Dr. Geeta Sharma,ME,geeta.sharma@iitj.ac.in,Assistant Professor,2303,FBH-403
+Dr. Priya Verma,HSS,priya.verma@iitj.ac.in,Associate Professor,2401,FBH-501
+Dr. Anita Desai,HSS,anita.desai@iitj.ac.in,Professor,2402,FBH-502
+Dr. Rajesh Pandey,HSS,rajesh.pandey@iitj.ac.in,Assistant Professor,2403,FBH-503
+Dr. Sunita Jain,HSS,sunita.jain@iitj.ac.in,Assistant Professor,2404,FBH-504
+Dr. Arun Mishra,HSS,arun.mishra@iitj.ac.in,Associate Professor,2405,FBH-505
+Dr. Vijay Gupta,MA,vijay.gupta@iitj.ac.in,Professor,2501,FBH-601
+Dr. Sanjay Sharma,MA,sanjay.sharma@iitj.ac.in,Associate Professor,2502,FBH-602
+Dr. Pooja Agarwal,MA,pooja.agarwal@iitj.ac.in,Assistant Professor,2503,FBH-603
+Dr. Kamal Verma,MA,kamal.verma@iitj.ac.in,Assistant Professor,2504,FBH-604
+Dr. Ravi Shankar,PH,ravi.shankar@iitj.ac.in,Professor,2601,FBH-701
+Dr. Leena Dutta,PH,leena.dutta@iitj.ac.in,Associate Professor,2602,FBH-702
+Dr. Shalini Rao,BIO,shalini.rao@iitj.ac.in,Assistant Professor,2701,FBH-801
+Dr. Nanda Kishore,BIO,nanda.kishore@iitj.ac.in,Associate Professor,2702,FBH-802

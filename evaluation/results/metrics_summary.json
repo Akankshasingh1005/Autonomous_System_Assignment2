@@ -1,0 +1,22 @@
+{
+  "multiagent_qwen3": {
+    "routing_accuracy": 100.0,
+    "answer_accuracy": 100.0,
+    "groundedness_rate": 100.0,
+    "refusal_rate": 100.0
+  },
+  "multiagent_llama31": {
+    "routing_accuracy": 100.0,
+    "answer_accuracy": 100.0,
+    "groundedness_rate": 100.0,
+    "refusal_rate": 100.0
+  },
+  "base_single_agent": {
+    "routing_accuracy": 100.0,
+    "answer_accuracy": 80.0,
+    "groundedness_rate": 83.33,
+    "refusal_rate": 100.0
+  },
+  "changed_answers_across_runs_count": 0,
+  "unanswered_questions_logged": 62
+}

@@ -1,0 +1,31 @@
+course_code,course_title,slot,days,time,room,instructor,department
+CSL7570,Autonomous Systems,D,Mon/Wed/Fri,11:00-11:50,LH-101,Dr. Rahul Sharma,CSE
+CSL3060,Operating Systems,A,Mon/Wed/Fri,08:00-08:50,LH-202,Dr. Ankit Verma,CSE
+CSL4010,Machine Learning,B,Tue/Thu,09:00-10:20,LH-301,Dr. Sunita Patel,CSE
+CSL4020,Computer Networks,C,Mon/Wed/Fri,10:00-10:50,LH-103,Dr. Deepak Gupta,CSE
+CSL5010,Deep Learning,E,Tue/Thu,11:00-12:20,LH-204,Dr. Meena Kumari,CSE
+CSL6010,Natural Language Processing,F,Mon/Wed/Fri,14:00-14:50,LH-305,Dr. Arjun Singh,CSE
+CSL2010,Data Structures and Algorithms,G,Tue/Thu,14:00-15:20,LH-102,Dr. Rohit Agarwal,CSE
+CSL3070,Database Management Systems,H,Mon/Wed/Fri,15:00-15:50,LH-201,Dr. Kavya Reddy,CSE
+EEL3010,Signals and Systems,A,Mon/Wed/Fri,08:00-08:50,LH-401,Dr. Pradeep Nair,EE
+EEL4010,Control Systems,B,Tue/Thu,09:00-10:20,LH-402,Dr. Shweta Menon,EE
+EEL5010,Power Electronics,C,Mon/Wed/Fri,10:00-10:50,LH-403,Dr. Vikas Tiwari,EE
+EEL6010,Wireless Communications,D,Tue/Thu,11:00-12:20,LH-404,Dr. Neha Bhatia,EE
+MEL3010,Thermodynamics,A,Mon/Wed/Fri,08:00-08:50,LH-501,Dr. Suresh Kumar,ME
+MEL4010,Fluid Mechanics,B,Tue/Thu,09:00-10:20,LH-502,Dr. Ramesh Joshi,ME
+MEL5010,Heat Transfer,E,Mon/Wed/Fri,11:00-11:50,LH-503,Dr. Geeta Sharma,ME
+HSL2010,Introduction to Sociology,F,Tue/Thu,14:00-15:20,LH-205,Dr. Priya Verma,HSS
+HSL3010,History of Science and Technology,G,Mon/Wed/Fri,14:00-14:50,LH-206,Dr. Anita Desai,HSS
+HSL4010,Philosophy of Mind,H,Tue/Thu,15:00-16:20,LH-207,Dr. Rajesh Pandey,HSS
+HSL4020,Ethics and Technology,A,Mon/Wed/Fri,08:00-08:50,LH-208,Dr. Sunita Jain,HSS
+HSL4030,Economics of Innovation,B,Tue/Thu,09:00-10:20,LH-209,Dr. Arun Mishra,HSS
+MAL2010,Calculus and Linear Algebra,A,Mon/Wed/Fri,08:00-08:50,LH-601,Dr. Vijay Gupta,MA
+MAL3010,Probability and Statistics,C,Mon/Wed/Fri,10:00-10:50,LH-602,Dr. Sanjay Sharma,MA
+MAL4010,Numerical Methods,D,Tue/Thu,11:00-12:20,LH-603,Dr. Pooja Agarwal,MA
+MAL5010,Graph Theory,F,Mon/Wed/Fri,14:00-14:50,LH-604,Dr. Kamal Verma,MA
+PHL2010,Classical Mechanics,B,Tue/Thu,09:00-10:20,LH-701,Dr. Ravi Shankar,PH
+PHL3010,Quantum Mechanics,D,Mon/Wed/Fri,11:00-11:50,LH-702,Dr. Leena Dutta,PH
+BIO2010,Introduction to Biotechnology,E,Tue/Thu,11:00-12:20,LH-801,Dr. Shalini Rao,BIO
+BIO4010,Genomics and Proteomics,G,Mon/Wed/Fri,14:00-14:50,LH-802,Dr. Nanda Kishore,BIO
+CSL7580,Reinforcement Learning,H,Tue/Thu,15:00-16:20,LH-104,Dr. Rahul Sharma,CSE
+CSL4030,Compiler Design,G,Mon/Wed/Fri,14:00-14:50,LH-203,Dr. Ankit Verma,CSE

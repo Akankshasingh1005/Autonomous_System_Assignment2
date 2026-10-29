@@ -1,0 +1,32 @@
+
+course_code,course_title,instructor_name,instructor_email,department
+CSL7570,Autonomous Systems,Dr. Rahul Sharma,rahul.sharma@iitj.ac.in,CSE
+CSL7580,Reinforcement Learning,Dr. Rahul Sharma,rahul.sharma@iitj.ac.in,CSE
+CSL3060,Operating Systems,Dr. Ankit Verma,ankit.verma@iitj.ac.in,CSE
+CSL4010,Machine Learning,Dr. Sunita Patel,sunita.patel@iitj.ac.in,CSE
+CSL4020,Computer Networks,Dr. Deepak Gupta,deepak.gupta@iitj.ac.in,CSE
+CSL5010,Deep Learning,Dr. Meena Kumari,meena.kumari@iitj.ac.in,CSE
+CSL6010,Natural Language Processing,Dr. Arjun Singh,arjun.singh@iitj.ac.in,CSE
+CSL2010,Data Structures and Algorithms,Dr. Rohit Agarwal,rohit.agarwal@iitj.ac.in,CSE
+CSL3070,Database Management Systems,Dr. Kavya Reddy,kavya.reddy@iitj.ac.in,CSE
+CSL4030,Compiler Design,Dr. Ankit Verma,ankit.verma@iitj.ac.in,CSE
+EEL3010,Signals and Systems,Dr. Pradeep Nair,pradeep.nair@iitj.ac.in,EE
+EEL4010,Control Systems,Dr. Shweta Menon,shweta.menon@iitj.ac.in,EE
+EEL5010,Power Electronics,Dr. Vikas Tiwari,vikas.tiwari@iitj.ac.in,EE
+EEL6010,Wireless Communications,Dr. Neha Bhatia,neha.bhatia@iitj.ac.in,EE
+MEL3010,Thermodynamics,Dr. Suresh Kumar,suresh.kumar@iitj.ac.in,ME
+MEL4010,Fluid Mechanics,Dr. Ramesh Joshi,ramesh.joshi@iitj.ac.in,ME
+MEL5010,Heat Transfer,Dr. Geeta Sharma,geeta.sharma@iitj.ac.in,ME
+HSL2010,Introduction to Sociology,Dr. Priya Verma,priya.verma@iitj.ac.in,HSS
+HSL3010,History of Science and Technology,Dr. Anita Desai,anita.desai@iitj.ac.in,HSS
+HSL4010,Philosophy of Mind,Dr. Rajesh Pandey,rajesh.pandey@iitj.ac.in,HSS
+HSL4020,Ethics and Technology,Dr. Sunita Jain,sunita.jain@iitj.ac.in,HSS
+HSL4030,Economics of Innovation,Dr. Arun Mishra,arun.mishra@iitj.ac.in,HSS
+MAL2010,Calculus and Linear Algebra,Dr. Vijay Gupta,vijay.gupta@iitj.ac.in,MA
+MAL3010,Probability and Statistics,Dr. Sanjay Sharma,sanjay.sharma@iitj.ac.in,MA
+MAL4010,Numerical Methods,Dr. Pooja Agarwal,pooja.agarwal@iitj.ac.in,MA
+MAL5010,Graph Theory,Dr. Kamal Verma,kamal.verma@iitj.ac.in,MA
+PHL2010,Classical Mechanics,Dr. Ravi Shankar,ravi.shankar@iitj.ac.in,PH
+PHL3010,Quantum Mechanics,Dr. Leena Dutta,leena.dutta@iitj.ac.in,PH
+BIO2010,Introduction to Biotechnology,Dr. Shalini Rao,shalini.rao@iitj.ac.in,BIO
+BIO4010,Genomics and Proteomics,Dr. Nanda Kishore,nanda.kishore@iitj.ac.in,BIO

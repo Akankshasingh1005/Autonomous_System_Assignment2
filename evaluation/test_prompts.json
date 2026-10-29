@@ -1,0 +1,227 @@
+[
+  {
+    "id": "T01",
+    "category": "policy",
+    "question": "What is the attendance requirement to sit in the Major exam?",
+    "expected_agent": "PolicyAgent",
+    "expected_keywords": ["75%", "attendance", "de-registration"],
+    "requires_citation": true,
+    "should_refuse": false
+  },
+  {
+    "id": "T02",
+    "category": "schedule",
+    "question": "What is the slot for the course Autonomous Systems?",
+    "expected_agent": "ScheduleAgent",
+    "expected_keywords": ["Slot D", "CSL7570", "11:00-11:50"],
+    "requires_citation": false,
+    "should_refuse": false
+  },
+  {
+    "id": "T03",
+    "category": "course_catalog",
+    "question": "How many 400 level electives have been floated by the Humanities department in this semester?",
+    "expected_agent": "ScheduleAgent",
+    "expected_keywords": ["3", "Philosophy of Mind", "Ethics and Technology", "Economics of Innovation"],
+    "requires_citation": false,
+    "should_refuse": false
+  },
+  {
+    "id": "T04",
+    "category": "curriculum",
+    "question": "How many Open Elective credits do I need to earn in order to get a B.Tech. Degree?",
+    "expected_agent": "PolicyAgent",
+    "expected_keywords": ["12", "Open Elective", "credits"],
+    "requires_citation": true,
+    "should_refuse": false
+  },
+  {
+    "id": "T05",
+    "category": "email",
+    "question": "Write an email to the course instructor of CSL7570 that I need leave for 2 days",
+    "expected_agent": "EmailAgent",
+    "expected_keywords": ["rahul.sharma@iitj.ac.in", "CSL7570", "Leave", "2 days"],
+    "requires_citation": false,
+    "should_refuse": false
+  },
+  {
+    "id": "T06",
+    "category": "refusal",
+    "question": "What are the available dining options on the campus?",
+    "expected_agent": "Orchestrator",
+    "expected_keywords": ["I do not know"],
+    "requires_citation": false,
+    "should_refuse": true
+  },
+  {
+    "id": "T07",
+    "category": "refusal",
+    "question": "What is the best way to reach the campus from Jodhpur city center?",
+    "expected_agent": "Orchestrator",
+    "expected_keywords": ["I do not know"],
+    "requires_citation": false,
+    "should_refuse": true
+  },
+  {
+    "id": "T08",
+    "category": "schedule",
+    "question": "What is the slot and classroom for Operating Systems?",
+    "expected_agent": "ScheduleAgent",
+    "expected_keywords": ["Slot A", "LH-202", "Dr. Ankit Verma"],
+    "requires_citation": false,
+    "should_refuse": false
+  },
+  {
+    "id": "T09",
+    "category": "schedule",
+    "question": "When does the course Machine Learning meet?",
+    "expected_agent": "ScheduleAgent",
+    "expected_keywords": ["Slot B", "09:00-10:20", "LH-301"],
+    "requires_citation": false,
+    "should_refuse": false
+  },
+  {
+    "id": "T10",
+    "category": "policy",
+    "question": "What is the policy for make-up examinations if I miss an exam due to illness?",
+    "expected_agent": "PolicyAgent",
+    "expected_keywords": ["make-up", "illness", "10 days"],
+    "requires_citation": true,
+    "should_refuse": false
+  },
+  {
+    "id": "T11",
+    "category": "email",
+    "question": "Draft an email to instructor of CSL3060 requesting a makeup exam due to illness",
+    "expected_agent": "EmailAgent",
+    "expected_keywords": ["ankit.verma@iitj.ac.in", "Make-up Examination", "CSL3060"],
+    "requires_citation": false,
+    "should_refuse": false
+  },
+  {
+    "id": "T12",
+    "category": "refusal",
+    "question": "What is the weather forecast for Jodhpur this weekend?",
+    "expected_agent": "Orchestrator",
+    "expected_keywords": ["I do not know"],
+    "requires_citation": false,
+    "should_refuse": true
+  },
+  {
+    "id": "T13",
+    "category": "refusal",
+    "question": "Can I order food delivery to the hostel from outside restaurants?",
+    "expected_agent": "Orchestrator",
+    "expected_keywords": ["I do not know"],
+    "requires_citation": false,
+    "should_refuse": true
+  },
+  {
+    "id": "T14",
+    "category": "course_catalog",
+    "question": "How many courses are floated in this semester by the Electrical Engineering department?",
+    "expected_agent": "ScheduleAgent",
+    "expected_keywords": ["4", "Signals and Systems", "Control Systems"],
+    "requires_citation": false,
+    "should_refuse": false
+  },
+  {
+    "id": "T15",
+    "category": "policy",
+    "question": "What happens if a student remains absent from class without sanctioned leave for more than two weeks?",
+    "expected_agent": "PolicyAgent",
+    "expected_keywords": ["de-registration", "course"],
+    "requires_citation": true,
+    "should_refuse": false
+  },
+  {
+    "id": "T16",
+    "category": "policy",
+    "question": "What is the duration and weightage of the Major examination as per the 2024 examination amendment?",
+    "expected_agent": "PolicyAgent",
+    "expected_keywords": ["3 hours", "40%"],
+    "requires_citation": true,
+    "should_refuse": false
+  },
+  {
+    "id": "T17",
+    "category": "schedule",
+    "question": "What is the slot and timing for Thermodynamics MEL3010?",
+    "expected_agent": "ScheduleAgent",
+    "expected_keywords": ["Slot A", "08:00-08:50", "LH-501"],
+    "requires_citation": false,
+    "should_refuse": false
+  },
+  {
+    "id": "T18",
+    "category": "email",
+    "question": "Write an email to Dr. Sunita Patel for CSL4010 asking for 3 days leave",
+    "expected_agent": "EmailAgent",
+    "expected_keywords": ["sunita.patel@iitj.ac.in", "CSL4010", "3 days"],
+    "requires_citation": false,
+    "should_refuse": false
+  },
+  {
+    "id": "T19",
+    "category": "refusal",
+    "question": "Where can I buy movie tickets near the IIT Jodhpur campus?",
+    "expected_agent": "Orchestrator",
+    "expected_keywords": ["I do not know"],
+    "requires_citation": false,
+    "should_refuse": true
+  },
+  {
+    "id": "T20",
+    "category": "refusal",
+    "question": "Is there a direct bus or cab service to Jodhpur railway station from campus?",
+    "expected_agent": "Orchestrator",
+    "expected_keywords": ["I do not know"],
+    "requires_citation": false,
+    "should_refuse": true
+  },
+  {
+    "id": "T21",
+    "category": "policy",
+    "question": "What is the rule regarding semester withdrawal if a student is absent for four or more weeks?",
+    "expected_agent": "PolicyAgent",
+    "expected_keywords": ["automatic semester withdrawal", "four", "weeks"],
+    "requires_citation": true,
+    "should_refuse": false
+  },
+  {
+    "id": "T22",
+    "category": "schedule",
+    "question": "What is the slot and instructor for Reinforcement Learning CSL7580?",
+    "expected_agent": "ScheduleAgent",
+    "expected_keywords": ["Slot H", "Dr. Rahul Sharma", "LH-104"],
+    "requires_citation": false,
+    "should_refuse": false
+  },
+  {
+    "id": "T23",
+    "category": "course_catalog",
+    "question": "How many courses are floated in this semester by the Mechanical Engineering department?",
+    "expected_agent": "ScheduleAgent",
+    "expected_keywords": ["3", "Thermodynamics", "Fluid Mechanics"],
+    "requires_citation": false,
+    "should_refuse": false
+  },
+  {
+    "id": "T24",
+    "category": "email",
+    "question": "Write an email to the course instructor of MEL3010 that I need leave for 4 days",
+    "expected_agent": "EmailAgent",
+    "expected_keywords": ["suresh.kumar@iitj.ac.in", "MEL3010", "4 days"],
+    "requires_citation": false,
+    "should_refuse": false
+  },
+  {
+    "id": "T25",
+    "category": "refusal",
+    "question": "What are the best sightseeing tourist places in Jodhpur city?",
+    "expected_agent": "Orchestrator",
+    "expected_keywords": ["I do not know"],
+    "requires_citation": false,
+    "should_refuse": true
+  }
+]
